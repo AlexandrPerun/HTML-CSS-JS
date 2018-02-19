@@ -1,0 +1,16 @@
+body
+{
+	background-color: #FFE4B5;
+	color: #B22222;
+	font-size: 1.4em;
+}
+div
+{
+	font-style: italic;
+}
+.img
+{
+	float:left;
+	border: 30px solid #FFE4B5;
+	width: 300px;
+}

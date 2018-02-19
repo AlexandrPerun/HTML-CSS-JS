@@ -1,0 +1,12 @@
+.parent {
+  width: 400px;
+  min-height: 450px;
+  background: #FF6600;
+}
+.rows {
+  width: 100px;
+  height: 100px;
+  background: #00F1FF;
+  margin: 5px;
+  float: left;
+}

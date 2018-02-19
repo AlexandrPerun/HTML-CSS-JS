@@ -1,0 +1,41 @@
+body
+{
+	margin: 0px;
+}
+.header
+{
+	background-color: deepskyblue;
+	float: left;
+	width: 1899px;
+	height: 150px;
+}
+.wrap
+{
+	background-color: yellow;
+	float: left;
+	width: 1899px;
+	height: 849.5px;
+}
+.main
+{
+	background-color: red;
+	float: left;
+	width: 1300px;
+	height: 800px;
+	border: 24.75px solid yellow;
+}
+.sidebar
+{
+	background-color: pink;
+	float: left;
+	width: 500px;
+	height: 800px;
+	border: 24.75px solid yellow;
+}
+.foter
+{
+	background-color: green;
+	float: left;
+	width: 1899px;
+	height: 150px;
+}

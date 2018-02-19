@@ -1,0 +1,111 @@
+body
+{
+	margin-left: 300px;
+	margin-right: 300px;
+	margin-top: 0px;
+	margin-bottom: 0px;
+	background-color: royalblue;
+}
+.telo
+{
+	background-color: white;
+	width: 1280px;
+	height: 2500px;
+	padding-left: 30px;
+	padding-right: 30px;
+	padding-top: 0px;
+	margin-top: 50px;
+	margin-bottom: 50px;
+}
+p
+{
+	padding-left: 125px;
+	padding-right: 125px;
+	font-size: 2em;
+	font-family: arial;
+}
+ul
+{
+	padding-left: 250px;
+	padding-right: 125px;
+	font-size: 2em;
+	font-family: arial;
+}
+.inf
+{
+	float: left;
+	width: 500px;
+	padding-left: 125px;
+}
+p2
+{
+	padding-left: 0px;
+	padding-right: 0px;
+	font-size: 2em;
+	font-family: arial;
+}
+.lol
+{
+	border-radius: 10px; 
+	background-color: #CD3333;
+	font-color: white;
+	min-height: 50px;
+	max-width: 500px;
+}
+.pan
+{
+	float: left;
+	width: 500px;
+	padding-left: 75px;
+}
+.man
+{
+	float: left;
+	width: 500px;
+	padding-left: 125px;
+}
+.bcj
+{
+	float: left;
+	width: 500px;
+	padding-left: 75px;
+}
+.lol3
+{
+	border-radius: 10px; 
+	background-color: #CD3333;
+	margin-left: 125px;
+	min-height: 50px;
+	max-width: 1085px;
+}
+.foter
+{
+	background-color: steelblue;
+	width: 1280px;
+	height: 350px;
+}
+.fcb
+{
+	margin-left: 470px;
+	margin-top: 50px;
+}
+.vk
+{
+	margin-left: 50px;
+	margin-top: 50px;
+}
+p3
+{
+	color: white;
+	font-size: 2em;
+	margin-left: 400px;
+	font-family: arial;
+}
+p4
+{
+	color: white;
+	font-size: 1em;
+	
+	font-family: arial;
+	
+}

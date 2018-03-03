@@ -1,0 +1,26 @@
+.fullwrap, .header, .menu{position: relative;}
+
+.fullwrap{ background-image: url("body-bg.png");}
+
+.header{
+	margin: auto;
+	top:40px;
+	height: 120px;
+	max-width: 950px;
+}
+.menu{
+	border-bottom: 4px solid rgb(210, 222, 228);
+	top: 25px;
+	height: 27px;
+}
+.menu a{
+	background: rgb(243, 246, 247);
+	color: black;
+	padding: 10px 15px;
+	font-weight: 700;
+	font-size: 14px;
+	text-decoration: none;
+}
+a:hover {
+	background: rgb(210, 222, 228);
+}

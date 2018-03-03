@@ -1,0 +1,49 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+body{
+	overflow-x: hidden;
+}
+.fool{
+	width: 956px;
+	margin: 200px auto;
+}
+table{
+	margin: auto;
+	font-family: Calibri;	
+}
+td{
+	background: rgb(155, 255, 155);
+	width: 108px;
+	height: 32px;
+	text-align: center;
+}
+.null{
+	background: white;
+}
+.qn{
+	background: rgb(0, 255, 0);
+	color: white;
+}
+.ok{
+	background-image: url(../img/ok.png);
+	height: 32px;
+	background-size: 33%;
+}
+.down{
+	background: white;
+}
+.down_2{
+	background: white;
+	color: rgb(0, 255, 0);
+	font-size: 25px;
+}
+button{
+	border-radius: 5px;
+	width: 85px;
+	height: 30px;
+	background: rgb(255, 50, 50);
+	color: white;
+}
+

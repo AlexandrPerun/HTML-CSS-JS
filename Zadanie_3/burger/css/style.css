@@ -1,0 +1,107 @@
+*{
+	padding: 0;
+	margin: 0;
+}
+.fool{
+	width: 1285px;
+	height: 646px;
+	position: absolute;
+	top: 0;
+	bottom: 0;
+	left: 0;
+	right: 0;
+	margin: auto;
+	background-color: rgb(66,50,44);
+}
+.menu{
+	width: 1145px;
+	height: 476px;
+	margin-left: 56px;
+	margin-right: 56px;
+	margin-top: 26px;
+}
+.photo{
+	width: 400px;
+	height: 476px;
+	float: left;
+}
+table{
+	font-size: 22px;
+	width: 745px;
+	height: 360px;
+	background-color: white;
+	text-align: center;
+}
+caption{
+	height: 116px;
+	background-color: white;
+	text-align: center;
+}
+.text{
+}
+.cost{
+	color: rgb(213,213,213);
+	font-weight: bold;
+	font-family: arial;
+	border-bottom: 2px solid rgb(213,213,213);
+	width: 246px;
+	height: 48px;
+	margin: auto;
+}
+.cap{
+	margin: 48px auto;
+	font-size: 25px;
+}
+.square{
+	margin: 0;
+	background: rgb(213,213,213);
+	width: 15px;
+	height: 15px;
+	transform: rotate(45deg);
+	position: relative;
+	bottom: 10px;
+	left: 180px;
+}
+.special{
+	width: 410px;
+	height: 205px;
+	background-color: black;
+	position: relative;
+	right: 20px;
+	bottom: 295px;
+	padding-top: 50px;
+	color: white;
+}
+.name{
+	text-align: center;
+	font-size:  50px;
+	font-weight: bold;
+	line-height: 0.75;
+}
+.vsego{
+	color: yellow;
+}
+.last{
+	padding: 20px;
+	font-family: arial;
+	font-weight: bold;
+	text-align: center;
+	font-size: 20px;
+}
+button{
+	width: 212px;
+	height: 69px;
+	color: white;
+	background-color: black;
+	font-family: arial;
+	font-weight: bold;
+	font-size: 20px;
+	position: relative;
+	top: 15px;
+	left: 990px;
+	border: 0;
+}
+button:hover{
+	color: yellow;
+}
+

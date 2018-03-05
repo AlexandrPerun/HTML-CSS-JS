@@ -5,12 +5,17 @@
 body{
 	overflow-x: hidden;
 }
-.fool{
-	width: 956px;
-	margin: 200px auto;
+.fool_6{
+	position: absolute;
+	top: 0;
+	left: 0;
+	right: 0;
+	bottom: 0;
+	width: 547px;
+	height: 290px;
+	margin: auto;
 }
 table{
-	margin: auto;
 	font-family: Calibri;	
 }
 td{
@@ -27,9 +32,11 @@ td{
 	color: white;
 }
 .ok{
-	background-image: url(../img/ok.png);
-	height: 32px;
-	background-size: 33%;
+	background: url(../img/ok.png) rgb(155, 255, 155) center center no-repeat;
+  	background-size: 33%;
+}
+.ok img{
+	width: auto;
 }
 .down{
 	background: white;

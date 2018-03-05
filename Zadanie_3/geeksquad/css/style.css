@@ -1,0 +1,41 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+.fool{
+	width: 1282px;
+	height: 182px;
+	position: absolute;
+	top: 0;
+	left: 0;
+	right: 0;
+	bottom: 0;
+	margin: auto;
+}
+.header{
+	background: url(../images/body-bg.png);
+	height: 120px;
+}
+.center-img{
+  display: block;
+  margin: auto;
+  padding-top: 33px;
+}
+table{
+	margin: 25px 168px 10px;
+	width: 950px;
+	border-bottom: 2px solid lightgrey;
+	border-spacing: 1px;
+}
+button{
+	text-align: center center;
+	background-color: rgb(243, 246, 247);
+	padding: 6px 16px;
+}
+button:hover{
+	background-color: lightgrey;
+}
+.menu{
+	position: absolute;
+	top: 100px;
+}

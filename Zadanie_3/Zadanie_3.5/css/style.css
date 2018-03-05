@@ -5,9 +5,15 @@
 body{
 	overflow-x: hidden;
 }
-.fool{
-	margin:200px auto;
+.fool_4{
+	position: absolute;
+	top: 0;
+	left: 0;
+	bottom: 0;
+	right: 0;
+	margin: auto;
 	width: 606px;
+	height: 425px;
 
 }
 table{
@@ -20,6 +26,7 @@ table{
 }
 span{
 	font-size: 15px;
+	font-weight: 600;
 }
 .first{
 	border: 0.5px solid rgb(34, 168, 111);
@@ -71,7 +78,7 @@ td{
 	text-align: center;
 	height: 40px;
 	font-size: 13px;
-	font-weight: 600;
+	
 }
 .button_out_1{
 	border-bottom: 8px solid rgb(28, 136, 90);

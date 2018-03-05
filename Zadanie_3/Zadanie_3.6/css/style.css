@@ -5,15 +5,22 @@
 body{
 	overflow-x: hidden;
 }
-.fool{
+.fool_5{
 	background: rgb(255, 175, 180);
-	width: 956px;
-	margin: 200px auto;
+	position: absolute;
+	top: 0;
+	left: 0;
+	right: 0;
+	bottom: 0;
+	width: 967px;
+	height: 502px;
+	margin: auto;
 }
 table{
-	margin: auto;
+	margin: 20px;
+	width: 927px;
+	height: 462px;
 	border-collapse: collapse;
-	
 }
 th{
 	width: 230px;
